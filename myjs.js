@@ -1,0 +1,1 @@
+alert('SixTONESの紹介！’）；
